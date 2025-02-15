@@ -4,6 +4,9 @@ Pydaconf plugin for Kubernetes Secrets
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/varadinov/pydaconf-plugins-k8s/ci.yaml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/varadinov/pydaconf-plugins-k8s)
 ![GitHub](https://img.shields.io/github/license/varadinov/pydaconf-plugins-k8s)
+[![downloads](https://static.pepy.tech/badge/pydaconf-plugins-k8s/month)](https://pepy.tech/project/pydaconf-plugins-k8s)
+![PyPI - Version](https://img.shields.io/pypi/v/pydaconf-plugins-k8s)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pydaconf-plugins-k8s)
 
 ## Pydaconf 
 For more information about Pydaconf see the [Docs](https://varadinov.github.io/pydaconf/).
